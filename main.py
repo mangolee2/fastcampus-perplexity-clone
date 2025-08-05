@@ -12,7 +12,7 @@ from modules.tools import WebSearchTool
 load_dotenv()
 
 # 프로젝트 이름
-logging.langsmith("Perplexity")
+logging.langsmith("InitService")
 
 st.title("Perplexity 💬")
 st.markdown(
